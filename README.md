@@ -1,2 +1,3 @@
 # rachaeljean.github.io
-Test Site
+This project is the bomb.com
+
