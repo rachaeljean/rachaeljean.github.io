@@ -1,4 +1,13 @@
 h1 {
 color: pink;
+font-style: italic;
 
 }
+
+ol {
+color: green;
+}
+
+body {
+  background-color: #fffda0;
+ }
